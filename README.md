@@ -28,6 +28,8 @@ Panel 3 dapat dilihat pada link berikut :
 
 https://public.tableau.com/profile/fradina7753#!/vizhome/panel2/Sheet2?publish=yes
 
+https://public.tableau.com/profile/reinheart.christian.simanungkalit#!/vizhome/panel3/Panel3Updated?publish=yes
+
 # Panel 4
 Panel 4 dapat dilihat pada link berikut :
 
