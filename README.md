@@ -14,7 +14,6 @@ Dashboard food trendsetter dapat dilihat pada link berikut :
 https://public.tableau.com/profile/fradina7753#!/vizhome/panel2/Dashboard1?publish=yes
 
 https://public.tableau.com/profile/fradina7753#!/vizhome/Panel2Updated_16103552887680/Dashboard1?publish=yes
-
 # Panel 1
 Panel dapat dilihat pada link berikut : 
 
