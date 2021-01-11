@@ -39,3 +39,8 @@ https://public.tableau.com/profile/fradina7753#!/vizhome/panel2/Sheet3?publish=y
 Panel 1 Update dapat dilihat pada link berikut :
 
 https://public.tableau.com/profile/reinheart.christian.simanungkalit#!/vizhome/Panel1Updated/Panel1Updated
+
+# Panel 4 Update 
+Panel 4 Update dapat dilihat pada link berikut :
+
+https://public.tableau.com/profile/reinheart.christian.simanungkalit#!/vizhome/Panel4Updated/Panel4Updated?publish=yes
